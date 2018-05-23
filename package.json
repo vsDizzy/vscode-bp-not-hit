@@ -1,0 +1,12 @@
+{
+  "name": "ts-play",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "ts-node": "^6.0.3",
+    "tslint": "^5.10.0"
+  }
+}
